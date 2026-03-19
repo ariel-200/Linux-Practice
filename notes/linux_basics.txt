@@ -1,0 +1,3 @@
+My Linux notes
+cd - Change directory
+ls - List directory contents
